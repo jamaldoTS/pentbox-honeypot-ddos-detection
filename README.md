@@ -16,6 +16,7 @@ This project sets up a **PentBox honeypot** designed to detect **DDoS attacks**,
 ### *Step 1: Clone the Repository*
 
 git clone https://github.com/jamaldoTS/pentbox-honeypot-ddos-detection.git
+
 cd pentbox-honeypot-ddos-detection
 
 ### *Step 2: Download and Extract PentBox*
