@@ -8,7 +8,6 @@ This project sets up a **PentBox honeypot** designed to detect **DDoS attacks**,
 - 🛡️ **PentBox 1.8** for TCP/UDP honeypot detection  
 - 🐍 **Python Slowloris Script** for DDoS testing  
 - 📊 **Real-Time Logging** of suspicious traffic  
-- 🔥 **IP Blocking (Optional)** using `iptables`  
 
 ---
 
