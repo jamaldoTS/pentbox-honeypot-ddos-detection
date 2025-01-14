@@ -53,7 +53,7 @@ cd slowloris
 ## *Step 2: Run the Slowloris Attack (Simulated Traffic)*
 
 Run the Slowloris attack script with the following command (replace <your-ip-address> with your actual IP address):
-python3 slowloris.py <your-ip-address> -s 500
+*python3 slowloris.py <your-ip-address> -s 500*
 The -s 500 option sends 500 sockets to simulate a DDoS attack. You can adjust the number based on the severity you want to test.
 
 
