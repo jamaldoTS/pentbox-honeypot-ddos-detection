@@ -47,6 +47,7 @@ This command will start the PentBox honeypot, which will begin monitoring for in
 
 Clone the Slowloris attack script repository:
 git clone https://github.com/gkbrk/slowloris.git
+
 cd slowloris
 
 ## *Step 2: Run the Slowloris Attack (Simulated Traffic)*
@@ -77,4 +78,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 This project is for educational purposes only. Please ensure that you have the proper authorization before using this honeypot in a real-world environment. Ethical hacking requires permission from the network owner.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--------------------------------------------------------------------------------------------------------------------------
